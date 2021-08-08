@@ -4,7 +4,6 @@ Sou um estudante de Ciência da Computação com foco em desenvolvimento back-en
 
 No momento estou estudando Java!
 
-(Portifólio ainda está em construção)
 
 ## _________________________________________________________________________________________________
 
@@ -25,9 +24,9 @@ I'm currently studying Java!
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahugalde&layout=compact&langs_count=7&theme=react"/>
 </div>
  
- ## Languages / Linguagens
+ ## Linguagens de Programação / Programming Languages
  
- Some languages that i use // Algumas linguagens que tive contato
+ Algumas linguagens que tive contato // Some languages that i use
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Noah-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
