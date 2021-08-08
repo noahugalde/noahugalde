@@ -7,7 +7,7 @@ Tive experiências nas linguagens: C, C++, Python e Java.
 
 (Portifólio ainda está em construção)
 
-## Dados GitHub
+## Stats
 
  <div>
   <a href="https://github.com/noahugalde">
