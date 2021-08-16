@@ -2,7 +2,7 @@
 
 Sou um estudante de Ciência da Computação com foco em desenvolvimento back-end, futuramente pretendo me tornar Full-Stack.
 
-No momento estou estudando Java!
+No momento estou estudando Java e JavaScript!
 
 
 ## _________________________________________________________________________________________________
@@ -11,7 +11,7 @@ No momento estou estudando Java!
 
 I am a Computer Science student with focus on back-end development, in the future I intend to become a Full-Stack developer.
 
-I'm currently studying Java!
+I'm currently studying Java e JavaScript!
 
 ## _________________________________________________________________________________________________
 
