@@ -23,8 +23,6 @@ I'm currently studying Java and Html/JavaScript!
 </div>
  
  ## Linguagens de Programação / Programming Languages
- 
- Algumas linguagens que tive contato // Some languages that i use
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Noah-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -33,7 +31,7 @@ I'm currently studying Java and Html/JavaScript!
   <img align="center" alt="Noah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
- ## Let's Connect ! // Contate Me !
+ ## Let's Connect ! Vamos nos Conectar !
 
 <a href="https://www.linkedin.com/in/noah-ítalo-ugalde-17387720b/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
 
