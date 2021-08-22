@@ -2,18 +2,16 @@
 
 Sou um estudante de Ciência da Computação com foco em desenvolvimento back-end, futuramente pretendo me tornar Full-Stack.
 
-No momento estou estudando Java e JavaScript!
+No momento estou estudando Java e Html/JavaScript!
 
 
-## _________________________________________________________________________________________________
 
 ## Hi, I'm Noah :)
 
 I am a Computer Science student with focus on back-end development, in the future I intend to become a Full-Stack developer.
 
-I'm currently studying Java e JavaScript!
+I'm currently studying Java and Html/JavaScript!
 
-## _________________________________________________________________________________________________
 
 
 ## Stats 
