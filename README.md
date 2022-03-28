@@ -18,7 +18,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Noah-C" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
- <img align="center" alt="Noah-JS" height="30" width="40" src="https://iconscout.com/icon/javascript-3629449">
+ <img align="center" alt="Noah-JS" height="30" width="40" <a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
 </div>
  
  ## Let's Connect !
