@@ -1,16 +1,8 @@
-## Olá, me chamo Noah :)
+## Hi, I'm Noah 👨🏻‍💻
 
-Sou um estudante de Ciência da Computação com foco em desenvolvimento back-end, futuramente pretendo me tornar Full-Stack.
+💻 I am a Computer Science student with focus on back-end development, in the future I intend to become a Full-Stack developer.
 
-No momento estou estudando Java e Html/JavaScript!
-
-
-
-## Hi, I'm Noah :)
-
-I am a Computer Science student with focus on back-end development, in the future I intend to become a Full-Stack developer.
-
-I'm currently studying Java and Html/JavaScript!
+📚 I'm currently studying Html/JavaScript!
 
 
 
