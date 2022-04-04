@@ -1,4 +1,4 @@
-## Hi, I'm Noah 👨🏻‍💻
+## Olá, Sou Noah! 👨🏻‍💻
 
 💻 Estudante de Ciência da Computação
 
