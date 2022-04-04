@@ -1,8 +1,8 @@
 ## Olá, Sou Noah! 👨🏻‍💻
 
-💻 Estudante de Ciência da Computação
+💻 Estudante de Ciência da Computação pela UNIFACS.
 
-📚 Estou aprendendo Html e JavaScript!
+📚 Estou aprendendo Html e JavaScript.
 
 
 
