@@ -14,7 +14,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahugalde&layout=compact&langs_count=7&theme=react"/>
 </div>
  
-<!-- Programming Languages --->
+## Linguagens
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Noah-C" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
