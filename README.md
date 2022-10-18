@@ -2,8 +2,6 @@
 
 💻 Estudante de Ciência da Computação pela UNIFACS.
 
-📚 Estou aprendendo Html e JavaScript.
-
 
 
 <!-- Stats --->
